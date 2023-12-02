@@ -3,3 +3,20 @@
 
 В обеих ветках есть текстовые файлы README и human.txt
 Отличие файла README. В ветке master он дополнительно содержит текст «with nice buttons on his jacket (buttons branch)»
+
+**************************
+
+Комментарии из коммитов:
+
+add file hometask.txt
+Merge branch 'boots_buttons' Merge branch 'hat'
+Merge branch 'buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+
+плюс коммиты Андрея К:
+fix readme
+dots
+README added
+boots
+heat added
+init
