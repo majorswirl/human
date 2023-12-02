@@ -1,0 +1,5 @@
+В ветке demo есть 2 коммита Андрея К, которых нет в ветке master. Это мерджи веток buttons и boots.
+А в ветке master есть 5 коммитов, которых нет в ветке demo. Во первых есть коммит «fix readme» от Андрея К. Во вторых два мерджа, которые были добавлены в этом задании boots_buttons  и hat, а также 2 коммита из истории мерджа в boots_buttons веток boots и buttons (из прошлого задания).
+
+В обеих ветках есть текстовые файлы README и human.txt
+Отличие файла README. В ветке master он дополнительно содержит текст «with nice buttons on his jacket (buttons branch)»
